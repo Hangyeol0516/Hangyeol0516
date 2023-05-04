@@ -14,4 +14,5 @@
 | What | When | How | Where |
 |:--------:|:--------:|:--------:|:--------:|
 | 성일정보고등학교 프로그래머스 동아리 | 2023. 03 ~ 현재 | 코딩테스트 대비 코딩문제 풀이  | Sungil Information High School |
+| 성일정보고등학교 방후 자바 기초 | 2023. 04 ~ 2023.05 | 코딩테스트 대비 코딩문제 풀이  | Sungil Information High School |  
 </div>
