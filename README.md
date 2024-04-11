@@ -31,5 +31,5 @@
 | 성일정보고등학교 소프트웨어 스터디 앱 분야 | 2024. 03 ~ 현재 | 앱개발 스터디  | Sungil Information High School |
 | 성일정보고등학교 방과후 웹개발 기초 | 2023. 08 ~ 2024. 12 | 웹개발 기초 강좌   | Sungil Information High School |  
 | 성일정보고등학교 방과후 자바 심화 | 2023. 08 ~ 2024. 12 | 자바 심화 강좌   | Sungil Information High School |  
-| 성일정보고등학교 방과후 자바 심화 | 2024. 04 ~ 현재 | 자바 Level 2   | Sungil Information High School |  
+| 성일정보고등학교 방과후 자바 Level 2 | 2024. 04 ~ 현재 | 자바 Level 2   | Sungil Information High School |  
 </div>
